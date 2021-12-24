@@ -1,0 +1,9 @@
+{
+  "name": "my-design-system-button",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "my-design-system-core": "^1.0.0"
+  }
+}
