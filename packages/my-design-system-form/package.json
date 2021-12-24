@@ -1,10 +1,10 @@
 {
   "name": "my-design-system-form",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "my-design-system-button": "^1.0.0",
-    "my-design-system-core": "^1.0.0"
+    "my-design-system-button": "^0.0.1",
+    "my-design-system-core": "^0.0.1"
   }
 }
